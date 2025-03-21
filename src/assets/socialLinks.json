@@ -1,38 +1,38 @@
 [
   {
+    "name": "小米办公",
+    "icon": "/images/icon/xiaomi-work.png",
+    "tip": "工友，快来找我玩~",
+    "url": "https://www.f.mioffice.cn/invitation/page/add_contact/?token=d3cl0284-f4bc-4ee8-b12e-2d42df862lcp"
+  },
+  {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "tip": "还没建设，简单瞅瞅吧",
+    "url": "https://github.com/lightraintech"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
-  },
-  {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "url": ""
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:lightraintech@gmail.com"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "url": ""
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": ""
   }
 ]
